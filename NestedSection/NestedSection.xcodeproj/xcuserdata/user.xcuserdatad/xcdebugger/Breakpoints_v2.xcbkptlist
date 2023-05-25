@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6624E169-25B6-40EF-A80E-7C1C93A41614"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "7C27D44B-F13F-418F-A53E-B7C570B0FFEA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FD80406-8199-4CF3-BECC-7422B52DC7B2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NestedSection/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "sectionHeaderTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4FD80406-8199-4CF3-BECC-7422B52DC7B2 - e0f6425c06866e37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NestedSection.ViewController.sectionHeaderTapped(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "NestedSection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/Test%20Project/NestedSection/NestedSection/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "4FD80406-8199-4CF3-BECC-7422B52DC7B2 - e0f6425c06866e37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NestedSection.ViewController.sectionHeaderTapped(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "NestedSection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/Test%20Project/NestedSection/NestedSection/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "4FD80406-8199-4CF3-BECC-7422B52DC7B2 - e0f6425c06866e37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NestedSection.ViewController.sectionHeaderTapped(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "NestedSection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/Test%20Project/NestedSection/NestedSection/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "4FD80406-8199-4CF3-BECC-7422B52DC7B2 - e0f6425c06866e37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NestedSection.ViewController.sectionHeaderTapped(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "NestedSection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/Test%20Project/NestedSection/NestedSection/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "1072">
+               </Location>
+               <Location
+                  uuid = "4FD80406-8199-4CF3-BECC-7422B52DC7B2 - e0f6425c06866e37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NestedSection.ViewController.sectionHeaderTapped(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "NestedSection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/Test%20Project/NestedSection/NestedSection/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "1040">
+               </Location>
+               <Location
+                  uuid = "4FD80406-8199-4CF3-BECC-7422B52DC7B2 - e0f6425c06866e37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NestedSection.ViewController.sectionHeaderTapped(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "NestedSection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/Test%20Project/NestedSection/NestedSection/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "1052">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9FE0778-7F3F-40D1-A335-498E07256657"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NestedSection/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "sectionHeaderTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B9FE0778-7F3F-40D1-A335-498E07256657 - e0f6425c06866e75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NestedSection.ViewController.sectionHeaderTapped(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "NestedSection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/Test%20Project/NestedSection/NestedSection/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "B9FE0778-7F3F-40D1-A335-498E07256657 - e0f6425c06866e75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NestedSection.ViewController.sectionHeaderTapped(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "NestedSection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/Test%20Project/NestedSection/NestedSection/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "B9FE0778-7F3F-40D1-A335-498E07256657 - e0f6425c06866e75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NestedSection.ViewController.sectionHeaderTapped(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "NestedSection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/Test%20Project/NestedSection/NestedSection/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "396">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CBBF537-70DA-4206-BFE9-8B608FB3C609"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NestedSection/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "sectionHeaderTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
